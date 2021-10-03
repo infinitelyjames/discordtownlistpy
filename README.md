@@ -7,6 +7,8 @@ This is an unofficial Python API Wrapper for the [Discord TownList (bot list)](h
 ```py
 import discordtownlistpy as dtl
 
+...
+
 dtl.postGuildCount(len(bot.guilds), "<YOUR_API_TOKEN>")
 ```
 
