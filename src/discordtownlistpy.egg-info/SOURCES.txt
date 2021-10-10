@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/discordtownlistpy/__init__.py
+src/discordtownlistpy.egg-info/PKG-INFO
+src/discordtownlistpy.egg-info/SOURCES.txt
+src/discordtownlistpy.egg-info/dependency_links.txt
+src/discordtownlistpy.egg-info/requires.txt
+src/discordtownlistpy.egg-info/top_level.txt

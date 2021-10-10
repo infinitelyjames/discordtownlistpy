@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: discordtownlistpy
+Version: 0.0.3
+Summary: An unofficial API wrapper for interfacing with discord town list API.
+Home-page: https://github.com/TrainsRAwesome/discordtownlistpy
+Author: Infinity#2837
+Author-email: bobcustomerservice@talktalk.net
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/TrainsRAwesome/discordtownlistpy/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# discordtownlistpy
+
+This is an unofficial Python API Wrapper for the [Discord TownList (bot list)](https://townlist.xyz/).
+
+## Posting Server Count
+
+```py
+import discordtownlistpy as dtl
+
+...
+
+dtl.postGuildCount(len(bot.guilds), "<YOUR_API_TOKEN>")
+```
+
+## Retrieving Bot Data
+
+```py
+import discordtownlistpy as dtl
+
+...
+
+@bot.command()
+async def botstats(ctx, bot_id):
+    bot_data = await returnBotData(bot_id)
+    ...
+```
+
+
+
