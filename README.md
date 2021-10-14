@@ -1,6 +1,7 @@
 # discordtownlistpy
 
-This is an unofficial Python API Wrapper for the [Discord TownList (bot list)](https://townlist.xyz/).
+~~This is an unofficial Python API Wrapper for the [Discord TownList (bot list)](https://townlist.xyz/).~~
+This project has been cancelled due to the site being deemed against Discord ToS, including the whole site being in violation of the terms of service found by the original copyright holder https://github.com/vcodes-xyz/vcodes.
 
 ## Posting Server Count
 
