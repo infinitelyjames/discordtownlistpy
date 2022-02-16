@@ -4,6 +4,8 @@
 
 **Update: The discord bot list is gone, and this package remains as a template for those attempting similar projects**
 
+For your information, the site was based on an old version of vcodes.
+
 ## Posting Server Count
 
 ```py
