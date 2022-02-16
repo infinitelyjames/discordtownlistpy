@@ -1,6 +1,6 @@
 # discordtownlistpy
 
-This is an unofficial Python API Wrapper for the [Discord TownList (bot list)](https://townlist.xyz/).
+~~This is an unofficial Python API Wrapper for the [Discord TownList (bot list)](https://townlist.xyz/).~~
 
 **Update: The discord bot list is gone, and this package remains as a template for those attempting similar projects**
 
